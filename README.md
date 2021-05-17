@@ -8,6 +8,8 @@ Enter into command prompt:
 ```cmd
 node server.js
 ```
+See: https://johnbee.github.io/3d-sierpinski/
+
 Click and move the mouse to explore the shape.
 Use Scroll wheel to zoom in/ out.
 
