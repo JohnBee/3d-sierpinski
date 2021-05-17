@@ -3,6 +3,7 @@ Using ThreeJs library to generate and display an interactive 3D Sierpinski fract
 
 ## How to View
 Example uses NodeJs to serve Static Files.
+
 Enter into command prompt:
 ```cmd
 node server.js
