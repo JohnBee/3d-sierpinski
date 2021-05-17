@@ -1,5 +1,5 @@
-# 3d-sierpinski
-Using ThreeJs library to generate and Ddisplay an interactive 3D sierpinski fractal.
+# 3D Sierpinski
+Using ThreeJs library to generate and display an interactive 3D Sierpinski fractal.
 
 ## How to View
 Example uses NodeJs to server Static Files.
